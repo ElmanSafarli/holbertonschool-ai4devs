@@ -14,3 +14,4 @@ stock = {
     "pears": 0,
 }
 print("Available stock:", remove_out_of_stock(stock))
+# RuntimeError: dictionary changed size during iteration
